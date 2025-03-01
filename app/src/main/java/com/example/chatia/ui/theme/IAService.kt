@@ -7,5 +7,5 @@ import retrofit2.http.Query
 
 interface IaService {
     @GET("run")
-    fun enviarMensaje(@Query("") mensaje: String): Call<ResponseBody>
+    fun enviarMensaje(@Query("mensaje") mensaje: String): Call<ResponseBody>
 }
