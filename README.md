@@ -55,10 +55,3 @@ La app sigue el patrón de **Clean Architecture**, separando las responsabilidad
 </p>
 
 ---
-
-## 🛠️ Instalación y Configuración
-
-1. **Clonar el repositorio**  
-   ```bash
-   git clone https://github.com/tu-usuario/chatbot-app.git
-   cd chatbot-app
